@@ -1,5 +1,5 @@
 FROM python:3.5
-MAINTAINER Craig Weber <crgwbr@gmail.com>
+MAINTAINER Jason Thibodeau <executorj@gmail.com>
 
 # Install Flower
 ENV FLOWER_VERSION='0.9.1'
